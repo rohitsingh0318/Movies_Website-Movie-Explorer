@@ -1,12 +1,31 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🎬 Movie Explorer
 
-Currently, two official plugins are available:
+**Movie Explorer** is a modern and responsive web application that lets users discover, explore, and learn about movies.  
+It provides movie details, trailers, ratings, and trending updates — all in one place!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎞️ Browse and search movies by title or genre  
+- ⭐ View ratings, release dates, and movie summaries  
+- 🎥 Watch trailers directly on the website  
+- 📱 Fully responsive design for all devices  
+- 🔍 Real-time search functionality  
+- 🧠 Smooth navigation with dynamic UI components  
+
+---
+
+## 🛠️ Tech Stack
+
+| Frontend | Backend | Database | Tools |
+|-----------|----------|-----------|--------|
+| HTML, CSS, JavaScript / React.js | Node.js, Express.js | MongoDB | Git, GitHub, VS Code |
+
+> (If your project is frontend-only, you can remove backend/database from this table.)
+
+---
+
+## 📂 Project Structure
