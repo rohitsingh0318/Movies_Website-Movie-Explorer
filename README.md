@@ -22,10 +22,54 @@ It provides movie details, trailers, ratings, and trending updates — all in on
 
 | Frontend | Backend | Database | Tools |
 |-----------|----------|-----------|--------|
-| HTML, CSS, JavaScript / React.js | Node.js, Express.js | MongoDB | Git, GitHub, VS Code |
+|  React.js/Boostrap/ | Node.js, Express.js | ..... | Git, GitHub, VS Code |
 
 > (If your project is frontend-only, you can remove backend/database from this table.)
 
 ---
 
 ## 📂 Project Structure
+
+
+```
+movie-explorer/
+│
+├── public/
+│ └── assets/
+│
+├── src/
+│ ├── components/
+│ ├── pages/
+│ ├── App.jsx
+│ └── index.js
+│
+├── package.json
+├── README.md
+└── .gitignore
+```
+
+
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/movie-explorer.git
+Navigate to the project folder
+```bash
+cd movie-explorer
+```
+
+Install dependencies
+
+
+```bash
+npm install
+```
+
+
+Start the development server
+
+```bash
+npm run de
