@@ -73,3 +73,7 @@ Start the development server
 
 ```bash
 npm run de
+
+```
+# 🎬 Movie Explorer
+ discovering and exploring movies, 
