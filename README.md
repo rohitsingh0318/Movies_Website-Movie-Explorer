@@ -77,3 +77,6 @@ npm run de
 ```
 # 🎬 Movie Explorer
  discovering and exploring movies, 
+
+🎬 Movie Explorer  is an online platform that provides access to a large library of movies, including Bollywood, Hollywood, and regional films. While the website offers content in various resolutions for free, it is an illegal piracy site that distributes copyrighted material without the owner's permission. 
+ 
